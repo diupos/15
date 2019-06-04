@@ -1,0 +1,67 @@
+.background {
+	height: 900px;
+	background-image: url(banner.png);
+	background-size: 100% 100%;
+	padding-top: 50px;
+}
+.top {
+	height: 300px;
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	
+}
+.text {
+	height: 300px;
+	width: 700px;
+	margin-left: 300px;
+	text-align: center;
+}
+h1 {
+	font-family: arial;
+	font-weight: bold;
+	font-size: 40px;
+	color: white;
+	letter-spacing: 2px;
+
+
+}
+p {
+	color: white;
+}
+body {
+	font-family: arial;
+}
+.nevedimka {
+	height: 500px;
+	margin-top: 100px;
+}
+.parent1 {
+	height: 200px;
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+}
+.content {
+	height: 200px;
+	width: 400px;
+	display: flex;
+}
+.margin-left {
+	margin-left: 100px;
+}
+.margin-top {
+	margin-top: 50px;
+}
+.mleft {
+	margin-left: 30px;
+}
+h3 {
+	font-weight: bold;
+	font-size: 22px;
+}
+.icons {
+	margin-top: 25px;
+}
